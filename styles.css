@@ -1,0 +1,55 @@
+/* body {
+  font-family: 'Karla', sans-serif;
+} */
+@media (min-width: 720px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+#HTMAA:hover {
+  color: #FF0000;
+}
+
+#GS:hover {
+  color: #FF9B1F;
+}
+
+#link:hover {
+  background-color: #FF0000;
+  color: #FFC0CB;
+  text-decoration: none;
+}
+
+#link {
+  background-color: #FFFF00;
+  color: #000000;
+  text-decoration: none;
+}
+
+p {
+  font-family: 'Karla', sans-serif;
+  font-size: 125%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 900;
+  font-family: 'Karla', sans-serif;
+}
+
+body {
+  padding-top: 10vh;
+  padding-left: 10vh;
+  padding-right: 10vh;
+  font-family: 'Karla', sans-serif;
+}
+
+pre code {
+  display: block;
+  font-size: 87.5%;
+  color: #212529;
+  background-color: #eee;
+  display: block;
+  padding: 10%;
+  overflow: none;
+}
